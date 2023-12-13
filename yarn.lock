@@ -56,7 +56,7 @@ react-is@^16.7.0:
 
 react-native-country-picker-modal@pgvidscrip/react-native-country-picker-modal:
   version "2.0.0"
-  resolved "https://codeload.github.com/pgvidscrip/react-native-country-picker-modal/tar.gz/f4207eb8717248c0cdec3b7856491d1dbf74b843"
+  resolved "https://codeload.github.com/pgvidscrip/react-native-country-picker-modal/tar.gz/f562d026817e71a4848ec6783ade01fc310573d0"
   dependencies:
     "@callstack/react-theme-provider" "3.0.9"
     fuse.js "3.4.5"
